@@ -1,0 +1,77 @@
+---
+title: "Respuestas"
+---
+Abajo se encuentran las respuestas a las preguntas más frecuentes.
+
+<br/>
+
+## ¿Dónde puedo encontrar los tutoriales 💻?
+
+Para consultar el material de los tutoriales visite [este enlace](https://github.com/rdaymedellin/tutoriales_Rday_2019).
+
+<br/>
+
+## ¿Dónde puedo encontrar los slides de las conferencias 🎤?
+
+1. [R 4 All - Welcoming and inclusive practices for teaching R](https://speakerdeck.com/minecr/r4all-welcoming-plus-inclusive-practices-for-teaching-r-b1f4cbcf-64af-4110-94f7-c465020add1d) by Mine Çetinkaya.
+2. [Deep Learning for Everyone](https://speakerdeck.com/kroz/deep-learning-for-everyone-rday-medellin) - Gabriela de Queiroz.
+3. Statistics in the Genomic Era: where we were, where we are and where we want to be - Jorge Iván Vélez.
+
+<br/>
+
+## ¿Dónde puedo encontrar los videos de las conferencias 🎥?
+
+1. [R 4 All - Welcoming and inclusive practices for teaching R](https://youtu.be/YUYKA99CNR4) by Mine Çetinkaya.
+2. [Deep Learning for Everyone](https://youtu.be/sehUi0kpav0) - Gabriela de Queiroz.
+
+<br/>
+
+## ¿Dónde puedo encontrar las Memorias del evento 📓?
+
+Para consultar las memorias del evento visite [este enlace](https://rdaymedellin.github.io/documentos/Memorias/Memorias_Rday_Medellin.pdf).
+
+<br/>
+
+## ¿Dónde puedo encontrar los certificados de asistencia al evento?
+
+Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_asistencia.pdf). <font color="#ff7aa4">Estarán disponibles el martes 12 de noviembre</font>.
+
+<br/>
+
+## ¿Dónde puedo encontrar los certificados de ponencia?
+
+Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_ponencia.pdf).
+
+<br/>
+
+## ¿Dónde puedo encontrar los certificados de tutorial?
+
+Para descargar su certificado visite [este enlace](https://rdaymedellin.github.io/documentos/Certificados/Certificado_tutorial.pdf).
+
+<br/>
+
+## ¿Dónde puedo encontrar las fotos del evento 📷 ?
+
+Para ver las fotos del evento visite [este enlace](https://www.flickr.com/groups/14679496@N23/). El grupo de flickr es libre así que usted también puede subir sus fotos del evento.
+
+<br/>
+
+## ¿Cómo puedo solicitar la factura de pago por inscripción al evento?
+
+Se debe escribir un correo al auxiliar administrativo Santiago Villa fcauxasis_med@unal.edu.co adjuntando los siguientes documentos:
+
+1. Comprobante de pago
+2. Copia del RUT
+3. Formato de creación de terceros diligenciado [disponible aquí](https://rdaymedellin.github.io/documentos/creacion_terceros.pdf).
+
+<br/>
+
+## ¿Se van a entregar impresos los certificados?
+
+No. En caso de necesitarlo usted lo puede imprimir.
+
+<br/>
+
+## ¿Hasta cuando estarán disponibles los certificados y material de los tutoriales?
+
+Hasta siempre, cuando usted los necesite puede consultarlos.
